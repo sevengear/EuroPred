@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#36A8CD</color>
+    <color name="colorOnPrimary">@color/colorTextPrimaryInverse</color>
+    <color name="colorPrimaryVariant">#33495F</color>
+    <color name="colorOnPrimaryDark">@color/colorTextPrimaryInverse</color>
+    <color name="colorSecondary">#007F91</color>
+    <color name="colorOnSecondary">@color/colorTextPrimaryInverse</color>
+    <color name="colorSecondaryVariant">#007F91</color>
+    <color name="colorTertiary">#693377</color>
+    <color name="colorOnTertiary">@color/colorTextPrimaryInverse</color>
+    <color name="colorStatusBar">#2B86A4</color>
+    <color name="colorBackground">#F9F9F9</color>
+    <color name="colorOnBackground">@color/colorTextPrimary</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">@color/colorTextPrimary</color>
+    <color name="colorDisabled">#D2D2D2</color>
+    <color name="colorOnDisabled">@color/colorTextPrimaryInverse</color>
+    <color name="colorError">#D12846</color>
+    <color name="colorOnError">@color/colorTextPrimaryInverse</color>
+    <color name="colorSuccess">#8FB607</color>
+    <color name="colorOnSuccess">@color/colorTextPrimaryInverse</color>
+    <color name="colorTextPrimary">#1F2128</color>
+    <color name="colorTextPrimaryInverse">#FFFFFF</color>
+    <color name="colorHint">#777777</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="colorBgSnackbar">#323232</color>
+    <color name="colorWarning">#FAE05F</color>
+
+    <color name="theme_background_sidemenu">#F4F5FB</color>
+    <color name="chat_background">#f2f2f2</color>
+    <color name="black">#000000</color>
+    <color name="state_pending">#E77D0D</color>
+
+    <color name="videocall_background">#4A4A4A</color>
+
+    <!-- Alerts -->
+    <color name="alert_high">#d2312d</color>
+    <color name="alert_medium">#f55a06</color>
+    <color name="alert_warning">#ed9c28</color>
+    <color name="alert_low">#47a447</color>
+
+    <!-- Calendar -->
+    <color name="calendar_professionals">#dfe283</color>
+    <color name="calendar_caregivers">#da88b7</color>
+    <color name="calendar_mine">#9ec3df</color>
+    <color name="calendar_external">#90c0d0</color>
+</resources>

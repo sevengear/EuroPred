@@ -1,0 +1,23 @@
+object Versions {
+    const val gradle = "7.0.2"
+    const val kotlin = "1.5.21"
+    const val safeArgs = "2.3.4"
+
+    const val coreKtx = "1.6.0"
+    const val appcompat = "1.3.1"
+    const val constraintLayout = "2.1.1"
+    const val materialVersion = "1.4.0"
+    const val retrofit = "2.9.0"
+    const val navigation = "2.3.5"
+    const val crypto = "1.0.0"
+    const val activity = "1.3.1"
+    const val fragment = "1.3.6"
+    const val legacy = "1.0.0"
+    const val dagger = "2.39.1"
+    const val okhttpLogging = "5.0.0-alpha.2"
+    const val junitTest = "1.1.3"
+    const val espresso = "3.4.0"
+    const val junit = "4.13.2"
+    const val rxJava = "2.2.21"
+    const val rxAndroid = "2.1.1"
+}

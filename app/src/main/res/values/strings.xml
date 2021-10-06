@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Predictor</string>
+    <!-- Error -->
+    <string name="error_default">¡Ups! Ocurrió un error inesperado.</string>
+    <string name="error_network">¡Ups! No hay conexión a Internet.</string>
+    <string name="error_server">¡Ups! Se perdió la conexión con el servidor.</string>
+    <string name="error_retry">Reintentar</string>
+    <string name="message_loading">Por favor espere…</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="snackbar_elevation">5dp</dimen>
+    <dimen name="snackbar_margin">10dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+
+    <dimen name="margin_micro">4dp</dimen>
+    <dimen name="margin_tiny">8dp</dimen>
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_huge">26dp</dimen>
+    <dimen name="margin_giant">32dp</dimen>
+</resources>
